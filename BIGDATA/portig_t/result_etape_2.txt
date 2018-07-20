@@ -1,0 +1,17 @@
+Algorithme :
+
+recuperer les flux twitter
+filtrer le flux pour ne garder que les tweets contenant le mot clé
+ajout des tweets dans une file
+faire pour tout les tweets de la file
+	si le tweet != null
+		si tweet_lang == "en" ou "fr"
+			recuperer les informations pertinantes
+			preparation des commandes SQL
+			connection a la BDD
+			execution des commandes SQL
+			fermeture la connection a la BDD
+		fin si
+	fin si
+fin pour tout
+

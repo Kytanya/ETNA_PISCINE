@@ -1,0 +1,78 @@
+
+body
+{
+	background-color: #efe5e3;
+	display: block;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+}
+
+#main-title
+{
+	color: purple;
+	font-size: 30px;
+	font-family: Papyrus, sans-serif;
+	text-align: center;
+	border: 3px black double;
+}
+
+#page
+{
+	height: 200px;
+	padding: 200px;
+}
+
+#parent-container
+{
+	display: flex;
+	border: 3px black double;
+}
+
+#contact-right
+{
+	clear: both;
+}
+
+#link
+{
+	text-align: center;
+	height: 214px;
+	height: 129px;
+}
+
+img.picture
+{
+  width: 260px;
+  height: 328px;
+}
+
+img.icon
+{
+  width: 35px;
+  height: 35px;
+
+}
+
+img.dl
+{
+	width: 200px;
+	height: 60px;
+}
+
+a
+{
+  color: blue;
+}
+
+p
+{
+	text-align: center;
+  	font-family: "Papyrus";
+  	font-size: 17px;
+}
+
+span
+{
+	font-family: "Papyrus";
+}

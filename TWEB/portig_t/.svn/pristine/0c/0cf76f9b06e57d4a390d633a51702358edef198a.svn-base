@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Mon CV</title>
+	<link rel="stylesheet" href="CV_2.css">
+	<meta charset="utf-8">
+	</head>
+<body>
+	<div id="page">
+		<h1 id='main-title'>DEVELOPPEUR WEB</h1>
+		<div id="parent-container">
+			<div class="picture">
+				<img class="picture" src="profil.jpeg">
+			</div>
+			<div id='contact-right'>
+				<p>Tiphanys PORTIGLIATTI</p>
+				<p>1 avenue Jacques Cartier</p>
+				<p>77600 Bussy-saint-Georges</p>
+			<div id="link">
+				<img class='icon' src='telephone3.png' /> <span>06 42 02 88 22</span> 	
+				<p>
+					<a href="mailto:t.portigliatti@gmail.com"><img class="icon" src="mail3.png" /></a>
+					<a href="http://linkedin.com/in/tiphanys-portigliatti-5b2036149"><img class="icon" src="logolinkedin3.png" /></a>
+				</p>
+				<p>
+					<a href="Tiphanys_PORTIGLIATTI_CV2.pdf" download  ><img class="dl" src="Buttonpdf.png"></a>
+				</p>
+			</div>	
+			</div>
+		</div>
+	</div>	
+</body>
+</html>

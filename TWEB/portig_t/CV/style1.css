@@ -1,0 +1,95 @@
+body
+{ 
+	font-family: 'Verdana', sans-serif;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#main-container
+{
+	margin: 0 auto;
+	background-color: #edece3;
+}
+
+#main-title
+{
+	color: purple;
+	font-size: 30px;
+	font-family: Papyrus, sans-serif;
+	text-align: center;
+	border: 3px black double;
+}
+
+.title
+{
+	color: purple;
+	font-size: 25px;
+	font-family: Papyrus, sans-serif;
+	text-align: center;
+	border: 3px black double;
+	font-style: italic;
+}
+
+ul
+{
+	list-style-type: circle;
+    margin: 20px;
+    padding: 20px;
+}
+
+a
+{
+	color: blue;
+}
+
+p
+{
+	font-size: 16px;
+	text-align: justify;
+}
+
+img.icon
+{
+	width: 20px;
+	height: 20px;
+}
+
+.period
+{
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#contact-left, #contact-right
+{
+	display: inline-block;
+}
+
+#contact-right
+{
+	text-align: right;
+	float: right;
+	margin-right: 20px;
+	clear: both;
+}
+
+#contact-left
+{
+	margin-left: 20px;
+}
+
+
+#contact-left span, #contact-right span
+{
+	display: block;
+	line-height: 20px;
+}
+
+.margin
+{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+
